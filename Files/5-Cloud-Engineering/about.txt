@@ -1,0 +1,37 @@
+5: Cloud Engineering
+Architecting a cloud-based solution for the client.
+
+# Background Information
+PinkBird is a global tax advisory that is based in Australia and has approached KPMG for help in building a responsive web application and mobile application for their end-users. 
+
+The KPMG consulting team is leading this opportunity, but they have asked the cloud engineering team to support them as they require technical cloud expertise to build the solutions for the client. In particular, the consulting team wants to focus on building the web application first.
+
+Together with the consulting team, the cloud engineering team needs to put together a proposed architecture for the web application based on the different AWS services that are available. It is your job, as an associate within the cloud engineering team, to put together a document that explains this architecture and some reasoning as to why you’ve chosen the products and services within the architecture.
+
+This document will be sent to your manager and the consulting team for approval before we go ahead with building the solution for the client.
+
+# Task Brief
+1. Business understanding
+
+First, you should read through the company background document to gain an understanding of the client, PinkBird. Within this document, you will also find information about the web application that they want to build. This information will be important to understand fully when architecting a solution. This should take 5-10 minutes.
+
+2. Explore AWS services
+
+The client has expressed a desire to build this solution on AWS. There is a whole plethora of products and services available on AWS. It is now your job to understand which products and services we should use to architect a solution for PinkBird. Use the additional resources to dive deeper into the different products and services available. This should take 30-45 minutes.
+
+3. Document the architecture
+
+Finally, you need to document the proposed products and services in the form of an architecture diagram and explanation. Please make sure it is clear which products and services you are proposing, as well as how they will work together. It is also important to provide some text as an explanation of why you’ve chosen these services. This should take you 15-20 minutes.
+
+# Task Resources
+Company Background
+https://cdn.theforage.com/vinternships/companyassets/M5Hbs7p5wJBCofkDL/agJZkBrin5ogGvDtM/1651814392414/PinkBird%20Background%20Information.pdf
+
+Top 50 AWS Services Explained in 10 Minutes
+https://www.youtube.com/watch?v=JIbIYCM48to
+
+AWS Web and Mobile Services
+https://aws.amazon.com/web-mobile-social/
+
+How to Build a Simple Web Application on AWS
+https://aws.amazon.com/startups/start-building/how-to-build-a-web-app/

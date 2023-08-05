@@ -1,0 +1,40 @@
+2: Data Analytics
+Helping companies understand their data.
+
+# Background Information
+Wondermarket is a German retail supermarket which has opened up 50 stores across the UK within the last 10 years. They are seeing a huge amount of growth, but as they are growing they are also spotting a lot of inefficiencies.
+
+They have provided us with some datasets and it is your job as a data analyst to prepare, analyse, visualise and extract insights from the data, relevant to their expectations. The client’s expectations from this task are:
+
+	They want to know which stores are performing best and which ones are performing worst
+	They want to understand the regions with the largest opportunity for growth if they were to open a new store
+	They want to understand what top 5 products they should sell in a new store to maximise profit when they first open
+
+A large part of a data analyst’s job is to translate technical insights and concepts into relatable and understandable terms and outcomes for the client. Therefore, having a deep understanding of the data, the client’s business and their processes is important to complete this task.
+
+# Task Brief
+1. Business understanding
+
+First, you should read through the company background document to gain an understanding of the client, Wondermarket, their business challenges and their business processes. This should take 5-10 minutes.
+
+2. Exploratory data analysis
+
+After this, you should start exploring the dataset provided. This exercise is for you to gain an understanding of their data, how it relates to their business, the statistical properties of the dataset and for you to start formulating how you can use the dataset to address the clients expectations. You can use any tool that you prefer for this, including Excel, Python and R. Make use of visualisations and charts to support your understanding at this stage! This should take 15-20 minutes. 
+
+3. Problem solving
+
+Now you have a full understanding of the business and its data, it is now your job to extract insights from the data in order to address each of the 3 expectations from the client. In order to properly address each expectation, you may be required to aggregate or make calculations on the original datasets. To provide evidence of your insights, please make use of visualisations, calculations and metrics that you feel are appropriate. You can use any tool that you prefer for this, including Excel, Python and R. This should take 20-30 minutes.
+
+4. Presentation of results
+
+Finally, we need to present the insights back to the client in a clear, concise and relatable format. We would like you to present your insights in the form of an executive summary slide. Use the additional resources for help when creating this slide. This should take 10-15 minutes.
+
+# Task Resources
+	Company Background
+	https://cdn.theforage.com/vinternships/companyassets/M5Hbs7p5wJBCofkDL/agJZkBrin5ogGvDtM/1641786282388/Company%20background.pdf
+	
+	Company Sales Dataset
+	https://cdn.theforage.com/vinternships/companyassets/M5Hbs7p5wJBCofkDL/agJZkBrin5ogGvDtM/1641786323700/Company%20Sales%20Dataset.csv
+	
+	How to Create an Executive Summary Slide
+	https://www.youtube.com/watch?v=vbzpQfDIMG4

@@ -1,0 +1,65 @@
+1: Cyber
+Help your client analyse, respond, and recover from a cyber incident.
+
+# Background Information
+As a member of the cyber division (Incident Response) at KPMG in the UK, you’ve been assigned Mando & Co. as a client. 
+
+Mando & Co. is a British utility company that supplies electricity and gas to business and residential customers in the UK with about 60,000 employees. They have an AMI (Advanced Metering Infrastructure) system, an integrated system of smart meters, communications networks and data management systems that enables two-way communication between utilities and customers.
+
+1st August 2021 10AM
+
+	An employee at Mando & Co. received an email that contained an attachment that appeared to be an internal financial report. Unknowingly, the employee downloads malware onto their system while downloading this attachment. 
+	After downloading the report, the employee realised they couldn’t open the report. They just assumed this was an error and never reported it to the IT department.
+
+7th August 2021 2PM
+
+	Mando & Co.’s IT team noticed a large number of events/alarms on their firewall. Source addresses were showing many different countries including the US. 
+	Several members notified Mando & Co. that their website was unavailable.
+	Mando & Co.’s Internet service provider notified them that there is a major increase in traffic which is overwhelming their servers, causing slow network performance. The traffic lasts for 2.5 hours with 45Gbp at the peak.
+
+Mando & Co.'s IT team found that 7 external mailboxes (OWA) were locked due to unsuccessful login attempts.
+
+7th August 2021 10PM
+
+	Several Mando & Co. employees received emails from an organisation or person called ShadowSquirrels.
+	ShadowSquirrels threatened to shut down the Mando & Co. system if they didn’t send 200BTC in 48 hours. No other detail was described.
+
+8th August 2021 7AM
+
+	Mando & Co.’s IT department received several calls from other staff within the organisation who were not able to log in to the network. The IT Department quickly found that the Mando & Co.'s Active Directory system had been compromised and even the system administrators were not able to log in to workstations, servers or domain controllers.
+
+8th August 2021 9AM
+
+	A courier delivered an envelope with a ransom request from ShadowSquirrels and details on how to pay the ransom.
+
+8th August 2021 11AM
+
+	Mando & Co.’s IT department restored Active Directory from backup, and everything returned to normal.
+	After about one hour, the employees were unable to log in to the network.
+
+# Task Brief
+Using the background information above and the additional resources that will be provided, you are required to provide answers to the questions in the task below. Remember to list out all the answers that apply.
+
+Please note that the scenario described in this module is fictional, including any organisation referenced, and has been created for the purpose of your virtual experience.
+
+# Task Resources
+	Top 10 Common types of Cybersecurity Attacks (datto.com)
+	https://www.datto.com/blog/cybersecurity-101-intro-to-the-top-10-common-types-of-cybersecurity-attacks
+
+	11 Types of Phishing + Real-Life Examples (pandasecurity.com)
+	https://www.pandasecurity.com/en/mediacenter/tips/types-of-phishing/
+
+	What Is A DDoS Attack? | MetaCompliance
+	https://www.metacompliance.com/blog/what-is-a-ddos-attack/
+
+	8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog
+	https://blog.emsisoft.com/en/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/
+
+	Battling Ransomware: How to Respond to a Ransomware Incident (forbes.com)
+	https://www.forbes.com/sites/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/?sh=b464b4864dc6
+
+	Frequently Asked Questions - Ransomware | Information Security Office (berkeley.edu)
+	https://security.berkeley.edu/faq/ransomware/
+
+	What to do before and after a cybersecurity breach? | american.edu
+	https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf

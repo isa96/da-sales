@@ -1,0 +1,46 @@
+4: Cloud Strategy
+Helping companies create and implement technology in the cloud.
+
+# Background Information
+NabuPlus is a UK-based global healthcare company that was founded in 1965. It has been publicly listed since 1982 and is evolving rapidly to try and keep up with the latest trends within healthcare, such as virtual screening, video calling and providing a predictive diagnosis for certain cases. They provide private healthcare to clients in the form of brick and mortar health centres, as well as a new technology-based approach where patients can be seen through their mobile app or website.
+
+Due to the nature of NabuPlus' business, they have a lot of highly sensitive information. Since they have been established for a significant amount of time, they also have a lot of existing processes and systems that have been around since they were first founded. They understand the need to “modernise” their approach and need KPMG’s help to do this in the most effective and safe manner possible. 
+
+As an associate in the cloud strategy team, it is your responsibility to do an initial evaluation of NabuPlus’ business and to prepare a cloud readiness assessment.
+
+# Task Brief
+1. Business understanding
+
+First, you should read through the company background document to gain an understanding of the client, NabuPlus, their business challenges, their business processes, their future ambitions and their expectations for the cloud. This should take 10-15 minutes.
+
+2. Assess company against readiness criteria
+
+Once you have a sound understanding of the business, it is time to start thinking about the different dimensions upon which they may or may not be ready to move to the cloud.
+
+It is your job to think about:
+
+	What aspects of the NabuPlus technology infrastructure are ready and appropriate to move to the cloud
+	What services would be most appropriate for them (PAAS, IAAS, SAAS)?
+	Which cloud model would be best for them (public cloud, private cloud hybrid)?
+
+Keep in mind the size of the company, the inherent nature of their business and what timelines and budgets they are working with when assessing the company.
+
+To gain an understanding of their readiness, you will want to use the link provided as well as using your own research.
+
+You will use the knowledge that you have gained during this research to answer several questions about NabuPlus’ readiness for the cloud.
+
+This research should take 30-40 minutes.
+
+3. Multiple choice
+
+The deliverable for this task is to answer a series of multiple-choice questions regarding the readiness of NabuPlus to move to the cloud. This should take 5-10 minutes
+
+# Task Resources
+	Company Background
+	https://cdn.theforage.com/vinternships/companyassets/M5Hbs7p5wJBCofkDL/agJZkBrin5ogGvDtM/1651813537158/NabuPlus%20resource%20.pdf
+
+	Public Cloud vs Private Cloud?
+	https://azure.microsoft.com/en-gb/overview/what-are-private-public-hybrid-clouds/#private-cloud
+
+	Six Steps to Assess Cloud Readiness
+	https://www.go2group.com/resources/blog/steps-to-assess-cloud-readiness/
